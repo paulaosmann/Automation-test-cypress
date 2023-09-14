@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\support",
+    "\\cypress\\support\\register"
+  ],
+  "SelectedNode": "\\cypress\\support\\register\\login-form.js",
+  "PreviewInSolutionExplorer": false
+}
