@@ -4,7 +4,7 @@ import { baseUrl } from "../support/register/authorization-config";
 describe("Actualize number of items", () => {
   const actualizationForm = new Actualization();
 
-  it("1. Visit page", () => {
+  it("1. Visit pages", () => {
     cy.visit(baseUrl.url);
     actualizationForm.cartButton().click();
   });
